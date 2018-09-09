@@ -22,7 +22,7 @@ def last_element(array)
   array[3]
 end
 
-def first_element_with_array_methods(array)
-  array = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
-  array.first
+def first_element_with_array_methods(south_east_asia)
+  south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
+  south_east_asia.first
 end
