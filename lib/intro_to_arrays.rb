@@ -9,5 +9,5 @@ end
 
 def first_element
   numbers = [1, 2, 3, 4]
-  numbers [0]
+  numbers.first
 end
