@@ -8,6 +8,6 @@ def array_with_two_elements
 end
 
 def first_element(numbers)
-  numbers = [1, 2, 3, 4]
+  numbers = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
   numbers[0]
 end
