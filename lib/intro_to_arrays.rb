@@ -7,7 +7,6 @@ def array_with_two_elements
   numbers
 end
 
-def first_element
-  numbers = [1, 2, 3, 4]
-  numbers.first
+def first_element[1, 2, 3, 4]
+  first_element[0]
 end
