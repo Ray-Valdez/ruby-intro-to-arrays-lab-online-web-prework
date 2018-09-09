@@ -12,14 +12,14 @@ def first_element(numbers)
   numbers[0]
 end
 
-def third_element(array)
-  array = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
-  array[2]
+def third_element(taylor_swift)
+  taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
+  taylor_swift[2]
 end
 
-def last_element(array)
-  array = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
-  array[3]
+def last_element(taylor_swift)
+  taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
+  taylor_swift[3]
 end
 
 def first_element_with_array_methods(south_east_asia)
